@@ -72,4 +72,4 @@ To fix it, just remove the `get_values` function
 
 [(RL) Various algorithms](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287)
 
-More in student's calendar in Notion
+More in Student's Calendar in Notion
